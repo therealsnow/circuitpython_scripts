@@ -12,7 +12,7 @@ This is a repo for scripts I have created to run with the RP2040. My current goa
 
 3. Drag and drop your CircuitPython uf2 file to the removable drive populated from step two. Once installed the microcontroller reboots automatically.
 	
-4. If all went well CircuitPython has been installed. 
+4. If all went well CircuitPython has been installed and a new drive will show up labelled CIRCUITPY
 	
-If for some reason you have challenges you can download the flash_nuke.uf2 in the repo which takes your board back to stock
+If for some reason you have challenges you can download the flash_nuke.uf2 in the repo which takes your board back to stock 
 	
