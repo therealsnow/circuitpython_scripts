@@ -13,5 +13,7 @@ Step Two
 Step Three
 	Drag and drop your CircuitPython uf2 file to the removable drive populated from step two. Once installed the microcontroller reboots automatically
 Fin
-	If all went well CircuitPython has been installed. If for some reason you have challenges you can download the flash_nuke.uf2 in the repo which takes your board back to stock
+	If all went well CircuitPython has been installed. 
+	
+If for some reason you have challenges you can download the flash_nuke.uf2 in the repo which takes your board back to stock
 	
