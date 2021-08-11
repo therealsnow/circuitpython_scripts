@@ -3,7 +3,7 @@ CircuitPython Scripts for RP2040
 
 This is a repo for scripts I have created to run with the RP2040. My current goal is very light weight ducky scripts in running on python
 
-#Installing CircuitPython to RP2040
+##Installing CircuitPython to RP2040
 
 Step One
 	Download current CircuitPython from https://circuitpython.org/board/raspberry_pi_pico/
