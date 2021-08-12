@@ -1,7 +1,7 @@
 #CircuitPython
 CircuitPython Scripts for RP2040
 
-This is a repo for scripts I have created to run with the RP2040. My current goal is very light weight ducky scripts in running on python
+This is a repo for scripts I have created to run with the RP2040. My current goal is very light weight ducky scripts on python
 
 ##Installing CircuitPython to RP2040
 
