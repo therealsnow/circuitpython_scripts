@@ -15,8 +15,3 @@ This is a repo for scripts I have created to run with the RP2040. My current goa
 4. If all went well CircuitPython has been installed and a new drive will show up labelled CIRCUITPY
 	
 If for some reason you have challenges you can download the flash_nuke.uf2 in the repo which takes your board back to stock 
-
-#Changelog
-
-1. V1 initial upload
-2. V1.1 Added code to output IP addresses of target machine to jobdone.txt to store IP address information of target machine
