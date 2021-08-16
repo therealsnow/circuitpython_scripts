@@ -22,4 +22,4 @@ if not 'jobdone.txt' in os.listdir():
     layout.write("powershell.exe\n")
     time.sleep(2.00)
     
-    layout.write("Set-Clipboard -Value (gc((gwmi win32_volume -f 'label=''CIRCUITPY''').Name+'
+    layout.write("Set-Clipboard -Value (gc((gwmi win32_volume -f 'label=''CIRCUITPY''').Name+'\PanicRules.txt'))")
